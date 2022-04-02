@@ -1,4 +1,4 @@
-#ISP
+# ISP
 
 En este ejercicio nos interesa que los usuarios de la clase ProcesadorTexto que 
 no necesiten la funcionalidad de corregir textos no tengan ninguna dependencia con
